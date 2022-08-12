@@ -26,7 +26,7 @@ https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png
 
 The results from the analysis show that June is a better month for W. Avy's business since is warmer than December; however, the precipitation for both months can allow us to give him a more in-depth analysis.  
 Based on the results:
-https://github.com/cbrito3/surfs_up/blob/main/June%20Precipitation.png
+https://github.com/cbrito3/surfs_up/blob/main/June%20Precipitation.png?raw=true
 
 https://github.com/cbrito3/surfs_up/blob/main/December%20Precipitation.png
 
