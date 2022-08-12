@@ -19,6 +19,8 @@ https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png
 
 * The data for the month of December  is comprised of 1517 entries. We see that the average temperature is about 71.04 degrees F, the maximum temperature is about 83 degrees F and the minimum temperature is 56 degrees F. As seen in the picture:
 
+(https://github.com/cbrito3/surfs_up/blob/main/December%20Temperature.png)
+
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
 The results from the analysis show that June is a better month for W. Avy's business since is warmer than December; however, the precipitation for both months can allow us to give him a more in-depth analysis.  
