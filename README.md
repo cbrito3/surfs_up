@@ -15,6 +15,8 @@ We created two reports for W.Avy that has the information about temperature tren
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 * The data for the month of June is comprised of 1700 entries. We see that the average temperature is 74.94 degrees F, the maximum temperature is 85 degrees F and the minimum temperature is 64 degrees F. As seen in the picture:
 
+https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png
+
 * The data for the month of December  is comprised of 1517 entries. We see that the average temperature is about 71.04 degrees F, the maximum temperature is about 83 degrees F and the minimum temperature is 56 degrees F. As seen in the picture:
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
