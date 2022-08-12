@@ -25,6 +25,8 @@ https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png
 
 The results from the analysis show that June is a better month for W. Avy's business since is warmer than December; however, the precipitation for both months can allow us to give him a more in-depth analysis.  
 Based on the results:
+https://github.com/cbrito3/surfs_up/blob/main/June%20Precipitation.png
+
 
 We can see that the precipitation betweem June and December varies at 0.136 and 0.217 correspondignly. 
 The maximum for June and December is 4.43 and and 6.42 correspondignly.
