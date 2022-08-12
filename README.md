@@ -2,15 +2,8 @@
 
 ## Deliverable 3 Instructions
 
-write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
-The analysis should contain the following:
-
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-
-
 ## Overview of the analysis: Explain the purpose of the new analysis.
-We created two reports for W.Avy that has the information about temperature trends between the months of June and December in Oahu to determine if the surf and ice cream shop business is sustainable year-round. 
+We created two reports for W. Avy that has the information about temperature trends between the months of June and December in Oahu to determine if the surf and ice cream shop business is sustainable year-round. 
 
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 * The data for the month of June is comprised of 1700 entries. We see that the average temperature is 74.94 degrees F, the maximum temperature is 85 degrees F and the minimum temperature is 64 degrees F. As seen in the picture:
