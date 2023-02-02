@@ -15,6 +15,8 @@ We created two reports for W. Avy that has the information about temperature tre
 * Summary statistics are generated for the DataFrame. 
 * Code to confirm  Summary Statistics for June can be found in: SurfsUp_Challenge.ipynb
 
+![June%20Temperature](https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png?raw=true![image])
+
 ## Determine the Summary Statistics for December
 * A working query is written to retrieve the December temperatures from the date column of the Measurement table.
 * The temperatures are added to a list. 
@@ -22,18 +24,16 @@ We created two reports for W. Avy that has the information about temperature tre
 * Summary statistics are generated for the DataFrame. 
 * Code to confirm the Summary Statistics for December can be found in: SurfsUp_Challenge.ipynb
 
+![December%20Temperature](https://github.com/cbrito3/surfs_up/blob/main/December%20Temperature.png)
+
 ## Written Report
 * Results: 
     - The data for the month of June is comprised of 1700 entries. We see that the average temperature is 74.94 degrees F, the maximum temperature is 
-      85 degrees F and the minimum temperature is 64 degrees F. As seen in the picture:
-
-![June%20Temperature](https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png?raw=true![image])
+      85 degrees F and the minimum temperature is 64 degrees F. As seen in the image above for June.
 
 
     - The data for the month of December  is comprised of 1517 entries. We see that the average temperature is about 71.04 degrees F, the maximum 
-      temperature is about 83 degrees F and the minimum temperature is 56 degrees F. As seen in the picture:
-
-![December%20Temperature](https://github.com/cbrito3/surfs_up/blob/main/December%20Temperature.png)
+      temperature is about 83 degrees F and the minimum temperature is 56 degrees F. As seen in the image above for December.
 
 * Summary: 
 
