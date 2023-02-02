@@ -8,7 +8,9 @@ We created two reports for W. Avy that has the information about temperature tre
 ## Results: 
 * The data for the month of June is comprised of 1700 entries. We see that the average temperature is 74.94 degrees F, the maximum temperature is 85 degrees F and the minimum temperature is 64 degrees F. As seen in the picture:
 
-https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png?raw=true![image](https://user-images.githubusercontent.com/107222716/184276833-6d7c29f4-e4de-4b2a-820c-2d07b75037f0.png)
+![June%20Temperature](https://github.com/cbrito3/surfs_up/blob/main/June%20Temperature.png?raw=true![image])
+
+![107222716/184276833-6d7c29f4-e4de-4b2a-820c-2d07b75037f0](https://user-images.githubusercontent.com/107222716/184276833-6d7c29f4-e4de-4b2a-820c-2d07b75037f0.png)
 
 
 * The data for the month of December  is comprised of 1517 entries. We see that the average temperature is about 71.04 degrees F, the maximum temperature is about 83 degrees F and the minimum temperature is 56 degrees F. As seen in the picture:
